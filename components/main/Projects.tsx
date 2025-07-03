@@ -14,10 +14,10 @@ const Projects = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 lg:gap-10">
           <ProjectCard
             src="/NextWebsite.png"
-            title="Modern Next.js Portfolio"
-            description="A sleek and responsive portfolio website built with Next.js, featuring modern design principles, smooth animations, and optimized performance for showcasing professional work."
-            codelink="https://github.com/yourusername/nextjs-portfolio"
-             demolink="https://myproject.vercel.app"
+            title="reel-pro"
+            description="A Video-Storage app where you can save your videos in reel format."
+            codelink="https://github.com/ANSHSINGH050404/reels_pro"
+             demolink="https://drive.google.com/file/d/1Buq5kqum28Bb73fwHRTCFuWB5zULxTO-/view?usp=sharing"
           />
           <ProjectCard
             src="/CardImage.png"
