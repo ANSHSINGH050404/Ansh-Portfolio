@@ -23,7 +23,7 @@ const HeroContent = () => {
           className="Welcome-box py-[8px] px-[7px] border border-[#7042f88b] opacity-[0.9]"
         >
           <SparklesIcon className="text-amber-200 mr-[10px] h-5 w-5" />
-          <h1 className="Welcome-text text-[13px]">
+          <h1 className="Welcome-text text-[25px] px-[50px] pb-5 text-blue-50">
             Fullstack Developer Portfolio
           </h1>
         </motion.div>
