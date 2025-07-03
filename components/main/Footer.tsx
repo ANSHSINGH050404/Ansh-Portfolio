@@ -12,16 +12,13 @@ const Footer = () => {
             <div className="font-bold text-[16px]">Community</div>
             <p className="flex flex-row items-center my-[15px] cursor-pointer">
               <FaYoutube />
-              <span className="text-[15px] ml-[6px]">Linkdin</span>
+              <span className="text-[15px] ml-[6px]"><a href="https://www.linkedin.com/in/ansh-singh-b56612241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">Linkdin</a></span>
             </p>
             <p className="flex flex-row items-center my-[15px] cursor-pointer">
               <RxGithubLogo />
-              <span className="text-[15px] ml-[6px]">Github</span>
+              <span className="text-[15px] ml-[6px]"><a href="https://github.com/ANSHSINGH050404">Github</a></span>
             </p>
-            <p className="flex flex-row items-center my-[15px] cursor-pointer">
-              <RxDiscordLogo />
-              <span className="text-[15px] ml-[6px]">Discord</span>
-            </p>
+           
           </div>
           <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
             <div className="font-bold text-[16px]">Social Media</div>
