@@ -13,26 +13,14 @@ const Projects = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 lg:gap-10">
           <ProjectCard
-            src="/NextWebsite.png"
+            src="/reelstorage.jpeg"
             title="reel-pro"
             description="A Video-Storage app where you can save your videos in reel format."
             codelink="https://github.com/ANSHSINGH050404/reels_pro"
              demolink="https://drive.google.com/file/d/1Buq5kqum28Bb73fwHRTCFuWB5zULxTO-/view?usp=sharing"
           />
-          <ProjectCard
-            src="/CardImage.png"
-            title="Interactive Website Cards"
-            description="A collection of interactive card components with hover effects, animations, and responsive design. Built with React and styled with modern CSS techniques."
-            codelink="https://github.com/yourusername/interactive-cards"
-             demolink="https://myproject.vercel.app"
-          />
-          <ProjectCard
-            src="/project3.png"
-            title="Full Stack Web App"
-            description="A comprehensive web application featuring user authentication, database integration, and real-time updates. Built with React, Node.js, and MongoDB."
-            codelink="https://github.com/yourusername/fullstack-app"
-             demolink="https://github.com"
-          />
+         
+         
         </div>
       </div>
     </div>

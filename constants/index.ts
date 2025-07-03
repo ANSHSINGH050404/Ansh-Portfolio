@@ -82,16 +82,19 @@ export const Skill_data = [
   
   export const Socials = [
     {
-      name: "Discord",
-      src: "/instagram.svg",
+      name: "Twitter",
+      src: "/icons8-twitter-bird-50.png",
+      sociallink:"https://x.com/AnshSin18258375",
     },
     {
-      name: "Facebook",
-      src: "/facebook.svg",
+      name: "Github",
+      src: "/icons8-github-80.png",
+      sociallink:"https://github.com/ANSHSINGH050404",
     },
     {
-      name: "Instagram",
-      src: "/discord.svg",
+      name: "Linkdin",
+      src: "/Untitled.png",
+      sociallink:"https://www.linkedin.com/in/ansh-singh-b56612241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
     },
   ];
   
