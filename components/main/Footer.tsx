@@ -72,7 +72,7 @@ const Footer = () => {
             <div className="font-bold text-lg md:text-xl mb-6 text-white">Contact</div>
             <div className="space-y-4 w-full max-w-xs">
               <a 
-                href="https://drive.google.com/file/d/14vKnP7LgzvJKDz7rwo2jZfMtj07M0Gnj/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1T0BiBDwJvBjoheTkbnLp3TW85Onwsfol/view?usp=drivesdk"
                 className="flex items-center hover:text-blue-400 transition-colors duration-200 group"
                 target="_blank"
                 rel="noopener noreferrer"
