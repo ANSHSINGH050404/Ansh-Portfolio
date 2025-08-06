@@ -21,11 +21,12 @@ const Projects = () => {
           />
           <ProjectCard
             src="/project2.png"
-            title="Voicevue-AI"
-            description="An AI Interview App "
-            codelink="https://github.com/ANSHSINGH050404/voicevue-ai.git"
-             demolink="https://drive.google.com/file/d/1i7N0aC6fNTkqJUl0-B9Pbea6MhOu3axz/view"
+            title="Time-Tracker"
+            description="Time Tracker app with admin and user assign projects time to complete it"
+            codelink="https://github.com/ANSHSINGH050404/time_tracker"
+             demolink="https://ansh-portfolio-pearl.vercel.app/"
           />
+           
          
          
         </div>
