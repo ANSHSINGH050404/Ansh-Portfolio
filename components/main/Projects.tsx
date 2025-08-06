@@ -20,7 +20,7 @@ const Projects = () => {
              demolink="https://drive.google.com/file/d/1Buq5kqum28Bb73fwHRTCFuWB5zULxTO-/view?usp=sharing"
           />
           <ProjectCard
-            src="/project2.png"
+            src="/time-tracker.png"
             title="Time-Tracker"
             description="Time Tracker app with admin and user assign projects time to complete it"
             codelink="https://github.com/ANSHSINGH050404/time_tracker"
