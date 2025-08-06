@@ -25,14 +25,14 @@ const Projects = () => {
             title="Time-Tracker"
             description="An AI Interviewer"
             codelink="https://github.com/ANSHSINGH050404/voicevue-ai"
-             demolink="https://ansh-portfolio-pearl.vercel.app/"
+             demolink="https://drive.google.com/file/d/1i7N0aC6fNTkqJUl0-B9Pbea6MhOu3axz/view"
           />
           <ProjectCard
             src="/time-tracker.png"
             title="Time-Tracker"
             description="Time Tracker app with admin and user assign projects time to complete it"
             codelink="https://github.com/ANSHSINGH050404/time_tracker"
-             demolink="https://drive.google.com/file/d/1i7N0aC6fNTkqJUl0-B9Pbea6MhOu3axz/view"
+             demolink="https://time-tracker-hazel.vercel.app/"
           />
           
            
